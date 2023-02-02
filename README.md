@@ -1,6 +1,6 @@
 # README.md
 
-Hola! Soy Martin, desarrollador web full-stack y estoy en busqueda de mi primer empleo IT, estudiié programacion de forma autodidacta y henry me dió el empujón final para estar listo para el trabajo. Estoy con muchas ganas de mi primer experiencia formal y sigo prácticando y aprendiendo mientras atravieso el proceso de busqueda.
+Hola! Soy Martin, desarrollador web full-stack y estoy en busqueda de mi primer empleo IT, estudié programacion de forma autodidacta y henry me dió el empujón final para estar listo para el trabajo. Estoy con muchas ganas de mi primer experiencia formal y sigo prácticando y aprendiendo mientras atravieso el proceso de busqueda.
 Podés contactarme por mail en mzacca.95@gmail.com o en mi [Linkedin](https://www.linkedin.com/in/martin-zacca-a5021b257/).
 
 Lenguajes y herramientas: 
